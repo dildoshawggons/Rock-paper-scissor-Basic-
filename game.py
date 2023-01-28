@@ -1,4 +1,4 @@
- player_wins = 0
+player_wins = 0
 computer_wins = 0
 Name = input("What's your name")
 while computer_wins < 2 and player_wins < 2:
